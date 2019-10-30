@@ -1,3 +1,3 @@
 export default {
-    api_key: "628d55c21bb629cf2eb14811835ad885",
+    api_key: "<Enter Your API Key here>",
 }
